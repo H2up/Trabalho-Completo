@@ -1,0 +1,46 @@
+* {
+    margin: 10;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+
+img {
+  height: 300px;
+}
+
+img {
+  border-radius: 50%;
+}
+
+body {
+    background: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    min-height: 100vh;
+    transition: .5s;
+}
+
+.data, .information {
+  border: 15px outset black;
+  background-color: white;
+  text-align: center;
+  width: 510px;
+
+h4 {
+   font-size: 20px;
+   line-height: 200%;
+}
+
+h2 {
+   color: blue;
+   line-height: 200%;
+}
+
+h1, h3, h4 {
+ color: black;
+}
+
+
+
